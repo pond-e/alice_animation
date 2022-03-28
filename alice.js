@@ -13,7 +13,7 @@ document.getElementById("tunnel").animate([
   ];
   
   var aliceTiming = {
-    duration: 3000,
+    duration: 6000,
     iterations: Infinity
   }
   
